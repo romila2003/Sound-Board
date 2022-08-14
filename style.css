@@ -7,7 +7,6 @@
 }
 
 body {
-    /*background-color: rgb(161, 100, 223);*/
     background-color: #26408B;
     font-family: 'Poppins', sans-serif;
     display: flex;
@@ -20,7 +19,6 @@ body {
 }
 
 .btn {
-    /*background-color: rebeccapurple;*/
     background-color: #0F084B;
     border-radius: 5px;
     border: none;
