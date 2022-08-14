@@ -19,7 +19,7 @@ This is apart of the 50 projects in 50 days challenge and is the ninth project.
 
 ### The challenge
 
-- To create a animation on the label, where each of the letter of the word (e.g. email and password) are animated so it looks like a wave. The challenge involves HTML, CSS and Javascript.
+- To create various buttons that contain different sounds depending on the name of the button. The challenge involves HTML, CSS and Javascript.
 
 ### Screenshot
 
